@@ -37,13 +37,4 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=abood190-c&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abood190-c&layout=compact&theme=github_dark&hide_border=true" height="150"/>
-</p>
-
----
-
 <sub>🟢 Open to opportunities &nbsp;|&nbsp; 📧 abdashqar190@gmail.com &nbsp;|&nbsp; 🐙 github/abood190-c</sub>
